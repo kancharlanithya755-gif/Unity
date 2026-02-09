@@ -1,4 +1,5 @@
-These two are the two scripts that are written for the game delivery dash which i have learnt it in Udemy which were developed by using UNITY and C#.
+
+These two are the scripts that are written for the game delivery dash which i have learnt it in Udemy which were developed by using UNITY and C#.
 This is the game of picking the package of items and delivering them to the customers:
 This project was a deep dive into the fundamentals of game development, focusing on player mechanics and game loop logic.
 
